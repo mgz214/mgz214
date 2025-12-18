@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi
 
 <!--
 **mgz214/mgz214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#Im MmdReza 
+# Im MmdReza 
 
 I work on ML(Machin Learing) with python
 and a little Network Security
